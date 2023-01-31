@@ -10,7 +10,8 @@
   "author": "yangtao04@kanzhun.com",
   "license": "ISC",
   "dependencies": {
-    "npmlog": "~7.0.1"
+    "npmlog": "~7.0.1",
+    "@types/npmlog": "~4.1.4"
   },
   "devDependencies": {
     "typescript": "~4.9.5",
